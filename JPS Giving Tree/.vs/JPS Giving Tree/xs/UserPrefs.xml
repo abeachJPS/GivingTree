@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3F15B745-3817-BF8F-5E20-15AD7355CAE6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Ornament.cs">
+    <Files>
+      <File FileName="Assets/Begin.cs" Line="56" Column="75" />
+      <File FileName="Assets/Ornament.cs" Line="30" Column="9" />
+      <File FileName="Assets/PanelText.cs" Line="14" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JPS Giving Tree" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Ornament.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5d5f516c-dad6-4565-96cd-87c60e0fefdf" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
